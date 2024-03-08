@@ -21,7 +21,7 @@ First phase: 91%
 
 Second phase:85%  
 
-Points gained: 5
+Points gained: 5/5
 
 ## 2. Time Series Forecasting
 **Goal**: having 48000 univariate time series, divided into 6 different categories and each one with different length, the objective was to build forcasting models able to properly generalize the training dataset and correctly predict the next 18 samples. 
@@ -34,4 +34,4 @@ First phase: 0,0059
 
 Second phase: 0,0115  
 
-Points gained: 5
+Points gained: 5/5
