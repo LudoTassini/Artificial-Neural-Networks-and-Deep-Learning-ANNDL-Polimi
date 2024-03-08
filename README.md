@@ -26,7 +26,7 @@ Points gained: 5
 ## 2. Time Series Forecasting
 **Goal**: having 48000 univariate time series, divided into 6 different categories and each one with different length, the objective was to build forcasting models able to properly generalize the training dataset and correctly predict the next 18 samples. 
 
-**Evaluation**: RMSE and MAE  
+**Evaluation matrics**: RMSE and MAE  
 
 **Scores**:  
 
