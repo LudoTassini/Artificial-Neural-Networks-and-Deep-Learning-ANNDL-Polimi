@@ -19,7 +19,7 @@ The competition was based on two different challenges:
 
 First phase: 91%  
 
-Second phase:85%  
+Second phase: 85%  
 
 Points gained: 5/5
 
