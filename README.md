@@ -1,5 +1,5 @@
 # Artificial Neural Networks and Deep Learning Competition
-In this repository you can find the *Jupyter Notebooks* used by me - Giada Silvestrini - and my collegues - Ludovica Tassini and Giulia Venturini - to participate to the 2023/2024 competition of Politecnico di Milano course *Artificial Neural Networks and Deep Learning*, held by professors Matteo Matteucci and Giacomo Boracchi.
+In this repository you can find the *Jupyter Notebooks* used by me - Ludovica Tassini - and my collegues - Giada Silvestrini and Giulia Venturini - to participate to the 2023/2024 competition of Politecnico di Milano course *Artificial Neural Networks and Deep Learning*, held by professors Matteo Matteucci and Giacomo Boracchi.
 
 The competition was based on two different challenges:
 - Image Classification
